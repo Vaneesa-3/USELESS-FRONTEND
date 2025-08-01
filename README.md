@@ -1,4 +1,4 @@
-# 🎯 CREDENCE
+# 🎯 CREDENCE(MERN STACK WEBSITE)
 
 ## 🧠 Basic Details
 
@@ -55,7 +55,7 @@ We turned signing up into a **mini psychological endurance test**, complete with
 ### ✅ Technologies / Components Used
 
 **💻 For Software:**
-
+M E R N STACK WEBSITE
 **Languages Used**
 - JavaScript
 - HTML5
@@ -96,22 +96,38 @@ Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
+1. Signup Page
+The user is asked to create a password. Each time a new condition is revealed, making the process more absurd and fun. Only after satisfying all 16 quirky conditions can the user proceed to sign up.
 <img width="1869" height="903" alt="Screenshot 2025-08-02 042643" src="https://github.com/user-attachments/assets/7965adc1-14a1-47df-b84c-c2edca483e6d" />
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+2.Landing Page
+After a successful login, users are greeted with a congratulatory landing page for their "patience" and persistence in passing the signup.
 <img width="1862" height="899" alt="Screenshot 2025-08-02 042742" src="https://github.com/user-attachments/assets/48292844-63d6-46a1-bcd1-62c21cda536d" />
 
-![Screenshot3](Add screenshot 3 here<img width="761" height="868" alt="Screenshot 2025-08-02 042825" src="https://github.com/user-attachments/assets/4236f238-d0bb-4da8-a98e-8b6cdaadc52b" />
- with proper name) Add caption explaining what this shows
+3. Downloaded Certificate
+4. A whimsical certificate is generated and made available for download, acknowledging the user’s effort in cracking the wild signup process.
+   <img width="761" height="868" alt="Screenshot 2025-08-02 042825" src="https://github.com/user-attachments/assets/4236f238-d0bb-4da8-a98e-8b6cdaadc52b" />
+
 
 Diagrams
+This diagram illustrates the flow of the Credence app:
+
+The user starts at the Signup page, where they face randomized password validation questions.
+
+Once all quirky conditions are met, the user can create an account.
+
+After successful Login, they are redirected to a Landing Page.
+
+The landing page congratulates them and offers a certificate download for their patience and persistence.
 <img width="1024" height="1536" alt="ChatGPT Image Aug 2, 2025, 04_32_14 AM" src="https://github.com/user-attachments/assets/a61191e8-7fc9-4afa-abca-508436de8d58" />
 
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
+
 
 Project Demo
 Video
-[(https://drive.google.com/file/d/1N20HivGoohM6ulcXJn7K2FlW5aPGi0-l/view?usp=sharing)] Explain what the video demonstrates
+https://drive.google.com/file/d/1N20HivGoohM6ulcXJn7K2FlW5aPGi0-l/view?usp=sharing
+
+Explain what the video demonstrates
 🧪 Video Demonstration Summary
 The video showcases Credence, a satirical authentication system with a deceptively polished UI. On attempting signup, users face a randomized series of 16 chaotic password validation checks. The questions appear in no fixed order, and each repeats until its specific requirement is fulfilled — turning the signup process into a frustrating yet funny puzzle. Once all criteria are satisfied, the user reaches a minimalist landing page with the option to download a certificate of survival, celebrating their endurance through the absurd validation ordeal.
 
@@ -119,6 +135,7 @@ Additional Demos
 https://useless-frontends.onrender.com/
 
 Team Contributions
+
 Vaneesa Joju : FRONTEND,BACKEND,DATABASE
 Glenys Gladson : BACKEND,DATABASE
 
