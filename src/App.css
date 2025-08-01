@@ -1,0 +1,68 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background: linear-gradient(135deg, #e3f2fd, #f1f8e9);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.blackboard {
+  background-image: url('https://img.freepik.com/free-photo/blank-black-chalkboard-gray-background_53876-42941.jpg?semt=ais_hybrid&w=740');
+  background-size: 120%;         /* Zoom into the image */
+  background-position: center;   /* Center the zoomed part */
+  background-repeat: no-repeat; 
+  color: white;  /* ✅ Makes all child text white */
+  font-family: 'Courier New', Courier, monospace;
+  padding: 50px;
+  padding-bottom: 150px;
+  border-radius: 10px;
+  width: 80%;
+  margin: 50px auto;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+}
+
+.blackboard ul {
+  padding-left: 20px;       /* Adds bullet indent */
+  list-style-type: disc;    /* Makes bullets visible if needed */
+}
+
+.blackboard ul li {
+  margin-bottom: 8px;       /* ✅ Space between list items */
+}
+
+.left {
+  text-align: left;
+}
+.blackboard-content {
+  background-color: rgba(0, 0, 0, 0.4); /* Transparent dark box */
+  padding: 30px;
+  border-radius: 10px;
+  width: 90%;
+  margin: 0 auto;
+  color: white;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
+.blackboard-content ul {
+  padding-left: 20px;
+  list-style-type: disc;
+}
+
+.blackboard-content li {
+  margin-bottom: 8px;
+}
+
+.blackboard-content h2 {
+  text-align: center;
+  margin-top: 20px;
+  color: lavenderblush;
+}
