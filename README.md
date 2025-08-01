@@ -83,7 +83,7 @@ We turned signing up into a **mini psychological endurance test**, complete with
 
 ### 🔧 Installation (Frontend)
 
-```bash
+
 # Clone the repo
 git clone https://github.com/Vaneesa-3/USELESS-FRONTEND.git
 cd USELESS-FRONTEND
@@ -96,30 +96,30 @@ Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+<img width="1869" height="903" alt="Screenshot 2025-08-02 042643" src="https://github.com/user-attachments/assets/7965adc1-14a1-47df-b84c-c2edca483e6d" />
 
 ![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+<img width="1862" height="899" alt="Screenshot 2025-08-02 042742" src="https://github.com/user-attachments/assets/48292844-63d6-46a1-bcd1-62c21cda536d" />
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+![Screenshot3](Add screenshot 3 here<img width="761" height="868" alt="Screenshot 2025-08-02 042825" src="https://github.com/user-attachments/assets/4236f238-d0bb-4da8-a98e-8b6cdaadc52b" />
+ with proper name) Add caption explaining what this shows
 
 Diagrams
+<img width="1024" height="1536" alt="ChatGPT Image Aug 2, 2025, 04_32_14 AM" src="https://github.com/user-attachments/assets/a61191e8-7fc9-4afa-abca-508436de8d58" />
+
 ![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
-
-
-Build Photos
-![Components](Add photo of your components here) List out all components shown
-
-![Build](Add photos of build process here) Explain the build steps
-
-![Final](Add photo of final product here) Explain the final build
 
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
+[(https://drive.google.com/file/d/1N20HivGoohM6ulcXJn7K2FlW5aPGi0-l/view?usp=sharing)] Explain what the video demonstrates
+🧪 Video Demonstration Summary
+The video showcases Credence, a satirical authentication system with a deceptively polished UI. On attempting signup, users face a randomized series of 16 chaotic password validation checks. The questions appear in no fixed order, and each repeats until its specific requirement is fulfilled — turning the signup process into a frustrating yet funny puzzle. Once all criteria are satisfied, the user reaches a minimalist landing page with the option to download a certificate of survival, celebrating their endurance through the absurd validation ordeal.
 
 Additional Demos
-[Add any extra demo materials/links]
+https://useless-frontends.onrender.com/
 
 Team Contributions
 Vaneesa Joju : FRONTEND,BACKEND,DATABASE
 Glenys Gladson : BACKEND,DATABASE
+
+```bash
